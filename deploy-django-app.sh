@@ -60,4 +60,4 @@ if ! deploy; then
 	#send mail
 fi
 
-echo "************ DEPLOYEMENT STARTED ************"
+echo "************ DEPLOYEMENT DONE ************"
